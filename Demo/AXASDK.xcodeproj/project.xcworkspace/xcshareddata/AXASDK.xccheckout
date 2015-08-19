@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>51B82FE6-E9F4-4E7A-96F4-2A75E8526E1D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AXASDK</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>09686245D70D56C4C215B41BC8F064AF409E001D</key>
+		<string>ssh://github.com/AXAET/AXABeacon-iOS-SDK.git</string>
+		<key>197DDF93EB5377010D981915055D02C4B99657B7</key>
+		<string>ssh://github.com/AXAET/AXABeaconSDK.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Demo/AXASDK.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>09686245D70D56C4C215B41BC8F064AF409E001D</key>
+		<string>../../..</string>
+		<key>197DDF93EB5377010D981915055D02C4B99657B7</key>
+		<string>../../../../AXABeaconSDK</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/AXAET/AXABeacon-iOS-SDK.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>09686245D70D56C4C215B41BC8F064AF409E001D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>09686245D70D56C4C215B41BC8F064AF409E001D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AXABeacon-iOS-SDK</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>197DDF93EB5377010D981915055D02C4B99657B7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AXABeaconSDK</string>
+		</dict>
+	</array>
+</dict>
+</plist>
