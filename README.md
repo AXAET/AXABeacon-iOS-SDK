@@ -1,5 +1,7 @@
 # AXABeacon-iOS-SDK
 
+SDK V1.2 add passowrd change.
+
 AXABeacon SDK
 
 一.Description
