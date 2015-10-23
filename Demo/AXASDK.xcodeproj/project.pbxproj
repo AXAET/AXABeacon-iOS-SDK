@@ -17,7 +17,7 @@
 		E919A2EA1B56399E002E0DE4 /* TagViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E919A2E91B56399E002E0DE4 /* TagViewController.m */; };
 		E919A2ED1B56489B002E0DE4 /* ModelBeaconViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E919A2EC1B56489B002E0DE4 /* ModelBeaconViewController.m */; };
 		E919A2F01B565DFC002E0DE4 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E919A2EF1B565DFC002E0DE4 /* DetailViewController.m */; };
-		E9837DF21B842BF600E7E34E /* BeaconSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E9837DF11B842BF600E7E34E /* BeaconSDK.framework */; };
+		E9F316BD1BDA13AF00DCC61D /* BeaconSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E9F316BC1BDA13AF00DCC61D /* BeaconSDK.framework */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +50,7 @@
 		E919A2EC1B56489B002E0DE4 /* ModelBeaconViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ModelBeaconViewController.m; sourceTree = "<group>"; };
 		E919A2EE1B565DFC002E0DE4 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
 		E919A2EF1B565DFC002E0DE4 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
-		E9837DF11B842BF600E7E34E /* BeaconSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = BeaconSDK.framework; sourceTree = "<group>"; };
+		E9F316BC1BDA13AF00DCC61D /* BeaconSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = BeaconSDK.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +58,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E9837DF21B842BF600E7E34E /* BeaconSDK.framework in Frameworks */,
+				E9F316BD1BDA13AF00DCC61D /* BeaconSDK.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -93,7 +93,7 @@
 		E919A2B51B55FD85002E0DE4 /* AXASDK */ = {
 			isa = PBXGroup;
 			children = (
-				E9837DF11B842BF600E7E34E /* BeaconSDK.framework */,
+				E9F316BC1BDA13AF00DCC61D /* BeaconSDK.framework */,
 				E919A2BA1B55FD86002E0DE4 /* AppDelegate.h */,
 				E919A2BB1B55FD86002E0DE4 /* AppDelegate.m */,
 				E919A2E51B563988002E0DE4 /* BeaconViewController.h */,
